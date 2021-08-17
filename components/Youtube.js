@@ -10,19 +10,19 @@ const Youtube = ({ other }) => {
           <div className={youtubeStyle.youtubeBlock}>
             <p>Подписчики</p>
             <div className={youtubeStyle.num}>
-              <h4>{func(other.items[0].statistics.subscriberCount)}</h4>
+              <h4>{}</h4>
             </div>
           </div>
           <div className={youtubeStyle.youtubeBlock}>
             <p>Видео</p>
             <div className={youtubeStyle.num}>
-              <h4>{other.items[0].statistics.videoCount}</h4>
+              <h4>{}</h4>
             </div>
           </div>
           <div className={youtubeStyle.youtubeBlock}>
             <p>Просмотры</p>
             <div className={youtubeStyle.num}>
-              <h4>{func(other.items[0].statistics.viewCount)}</h4>
+              <h4>{}</h4>
             </div>
           </div>
         </div>

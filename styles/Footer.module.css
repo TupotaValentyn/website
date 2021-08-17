@@ -1,7 +1,7 @@
 .container {
     background-color:rgb(27, 27, 27);
     color: rgb(228, 228, 228);
-    font-family: "Gravity-Regular";
+    font-family: 'Robato', sans-serif;
     width: 100%;
 }
 
@@ -23,7 +23,7 @@
     background-color: black;
     color: rgb(240, 240, 240);
     text-align: center;
-    font-family: "Gravity-Light";
+    font-family: 'Robato', sans-serif;
     font-size: 0.85rem;
 
 }
@@ -32,7 +32,7 @@
 .desc {
     text-align: center;
     margin: 2rem 0rem;
-    font-family: "Gravity-Light";
+    font-family: 'Robato', sans-serif;
 }
 
 .social {

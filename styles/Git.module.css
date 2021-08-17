@@ -18,8 +18,9 @@
 .header h4{
   padding-bottom: 1em;
   text-align: center;
-  font-family: "Gravity-Regular";
+  font-family: 'Robato', sans-serif;
   font-size: 1.9em;
+  font-weight: 400;
 
 }
 
@@ -30,7 +31,6 @@
 
 .gitBlock {
   text-align: center;
-  font-family: "Gravity-Light";
   font-size: 1.5em;
 }
 

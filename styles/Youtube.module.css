@@ -14,9 +14,9 @@
 .header h3 {
   padding-bottom: 1em;
   color: black;
-  font-family: "Gravity-Light";
+  font-family: 'Robato', sans-serif;
   text-align: center;
-  font-weight: 400;
+  font-weight: 100;
   letter-spacing: 10px;
   font-size: 3.9em;
 }
@@ -29,13 +29,13 @@
 
 .youtubeBlock {
   text-align: center;
-  font-family: "Gravity-Light";
-  font-weight: 100;
+  font-family: 'Robato', sans-serif;
+  font-weight: 400;
 }
 
 .num {
   text-align: center;
-  font-family:"Gravity-Light";
+  font-family: 'Robato', sans-serif;
   font-size: 20px;
   font-weight: 700;
 }

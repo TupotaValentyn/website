@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+
 h1,
 h2,
 h3 {
@@ -49,12 +53,12 @@ nav {
   align-items: center;
   font-family: "Gravity-Regular";
   transition: 0.6s;
-  padding: 3rem 10rem;
+  padding: 5rem 7rem;
   z-index: 1;
 }
 
 nav.sticky {
-  padding: 0rem 10rem;
+  padding: 0rem 7rem;
   background: #fff;
 }
 
@@ -103,7 +107,7 @@ nav.sticky ul li a {
 @media (max-width: 950px) {
   nav {
     justify-content: center;
-    font-family: "Gravity-Regular";
+    font-family: 'Robato', sans-serif;
     transition: 0.6s;
   }
 
