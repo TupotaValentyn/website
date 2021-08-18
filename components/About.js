@@ -30,7 +30,7 @@ const About = () => {
                 <li>
                   <a href="https://github.com/Winderton/xplatform">xplatform</a>
                 </li>
-                <li>website</li>
+                <li><a href="https://github.com/Winderton/website">website</a></li>
                 <li>game engine (comming soon...)</li>
               </ul>
             </div>
